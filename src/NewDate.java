@@ -1,4 +1,4 @@
-public class newDate {
+public class NewDate {
     public static void main(String[] args) {
         String day = "Monday";
         int date = 12;
