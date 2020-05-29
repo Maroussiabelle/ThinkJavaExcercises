@@ -1,4 +1,6 @@
-public class Date {
+package chapter04;
+
+public class Chapter4Ex3 {
     public static void main(String[] args) {
         String day = "Monday";
         int date = 12;

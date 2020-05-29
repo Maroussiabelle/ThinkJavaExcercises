@@ -1,4 +1,6 @@
-public class Zoop {
+package chapter04;
+
+public class Chapter4Ex2 {
     //1. Write the first line of a method named zool that takes three parameters: an int
     //and two String s.
     //2. Write a line of code that calls zool , passing as arguments the value 11 , the name
