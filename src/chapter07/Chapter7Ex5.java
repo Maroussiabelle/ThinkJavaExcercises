@@ -6,7 +6,7 @@ public class Chapter7Ex5 {
 //        System.out.println(Math.exp(-100));
 //        System.out.println(myExp(-100));
 //        System.out.println();
-        System.out.println(Math.exp(-50));
+        System.out.println(Math.exp(3));
         System.out.println(myExp(-50));
 
         System.out.println("\n");
